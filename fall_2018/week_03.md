@@ -5,8 +5,8 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
-For the week of October 1, 2018, I was put on the curriculum subteam for the Open Source Curriculum Project and I will be
-watching videos on how to use reactJS.
+I didn't get a chance to work on anything this week because I am still fairly clueless as to what I need to do
+and what I need to accomplish. However, the plan remains that I work on learning reactJS.
 
 ## This Week's Plan
 
@@ -14,8 +14,7 @@ watching videos on how to use reactJS.
 
 > Examples: New Bugs to be fixed, Design choices
 
-For the upcoming week of October 8, 2018, I plan on finalizing all the tutorial work and to hopefully start making meaningful
-commits and contributions to the project.
+The plan remains that I work on learning reactJS and git.
 
 ## Anything Blocking?
 
@@ -23,7 +22,9 @@ commits and contributions to the project.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
-I am very new to all this stuff and I am not sure if I will be able to truly become decent at reactJS in one week.
+I am very new to all this stuff and the lack of communication and guidance is hurting me. I feel like the people
+who are already proficient at git and coding are moving extremely fast and I am just being left behind. I would love to
+spend more time on this but the combination of schoolwork and other clubs makes it difficult.
 
 ## Notes
 
