@@ -23,7 +23,7 @@ The plan remains that I work on learning reactJS and git.
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
 I am very new to all this stuff and the lack of communication and guidance is hurting me. I feel like the people
-who are already proficient at git and coding are moving extremely fast and I am just being left behind. I would love to
+who are already proficient at git and coding are moving extremely fast and I am just being left behind. I would like to
 spend more time on this but the combination of schoolwork and other clubs makes it difficult.
 
 ## Notes
