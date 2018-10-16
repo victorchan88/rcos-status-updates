@@ -23,7 +23,7 @@ commits and contributions to the project.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 
-I am very new to all this stuff and I am not sure if I will be able to truly become decent at reactJS in one week.
+I am very new to all this stuff and I am not sure if I will be able to truly become decent at reactJS in 1 week.
 
 ## Notes
 
